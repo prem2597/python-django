@@ -1,0 +1,9 @@
+/django_website/manage.py
+/django_website/django_website/asgi.py
+/django_website/django_website/settings.py
+/django_website/django_website/urls.py
+/django_website/django_website/wsgi.py
+/django_website/django_website/__pycache__/*
+/django_website/db.sqlite3
+
+
