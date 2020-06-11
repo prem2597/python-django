@@ -5,5 +5,16 @@
 /django_website/django_website/wsgi.py
 /django_website/django_website/__pycache__/*
 /django_website/db.sqlite3
+/django_website/blog/admin.py
+/django_website/blog/apps.py
+/django_website/blog/__init__.py
+/django_website/blog/migrations/*
+/django_website/blog/models.py
+/django_website/blog/tests.py
+/django_website/db.sqlite3
+
+
+
+
 
 
