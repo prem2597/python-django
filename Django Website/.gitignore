@@ -13,6 +13,7 @@
 /django_website/blog/tests.py
 /django_website/db.sqlite3
 /django_website/blog/__pycache__/*
+docs.MD
 
 
 
